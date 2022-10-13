@@ -73,5 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <h3> This Portfolio was created using React JS , HTML , CSS and the site is live now.
 
-Link - [Rajesh's Portfolio](https://rajeshcse20.github.io/portfolio-starter/)
+Link - [Rajesh's Portfolio](https://rajeshrcse.github.io/portfolio-starter/)
 
