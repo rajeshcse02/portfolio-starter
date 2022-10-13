@@ -1,7 +1,7 @@
 {
   "name": "starter",
   "version": "0.1.0",
-  "homepage": "https://rajeshcse02.github.io/portfolio-starter",
+  "homepage": "https://rajeshrcse.github.io/portfolio-starter",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
