@@ -36,13 +36,13 @@ const Intro = () => {
         <button className="button i-button">Hire me</button>
         </Link>
         <div className="i-icons">
-          <a href="https://github.com/rajeshcse02">
+          <a href="https://github.com/rajeshcse02" target="_blank">
             <img src={Github} alt="" />
           </a>
-          <a href="https://www.linkedin.com/in/rajesh-r-584b55249">
+          <a href="https://www.linkedin.com/in/rajesh-r-584b55249" target="_blank">
             <img src={LinkedIn} alt="" />
           </a>
-          <a href="https://www.instagram.com/rajesh2kkid/">
+          <a href="https://www.instagram.com/rajesh2kkid/" target="_blank">
             <img src={Instagram} alt="" />
           </a>
         </div>

@@ -1,9 +1,9 @@
 import React from "react";
 import "./Portfolio.css";
 import { Swiper, SwiperSlide } from "swiper/react";
-import virtualCalci from "../../img/virtualCalci.jpg";
+import thailex from "../../img/thailex.png";
 import portfolio from "../../img/portfolio.jpg";
-import ResumeGen from "../../img/ResumeGen.png";
+import tshirt from "../../img/tshirt3d.png";
 import "swiper/css";
 import { useContext } from "react";
 import { themeContext } from "../../Context";
@@ -26,8 +26,8 @@ const Portfolio = () => {
           className="portfolio-slider"
         >
           <SwiperSlide>
-            <a href="https://github.com/rajeshcse02/VirtualCalculator/">
-            <img src={virtualCalci} alt="" />
+            <a href="https://github.com/rajeshcse02/vit-sympo-cse/">
+            <img src={thailex} alt="" />
             </a>
           </SwiperSlide>
           <SwiperSlide>
@@ -36,7 +36,7 @@ const Portfolio = () => {
             </a>
           </SwiperSlide>
           <SwiperSlide>
-            <img src={ResumeGen} alt="" />
+            <img src={tshirt} alt="" />
           </SwiperSlide>
         </Swiper>
       </div>

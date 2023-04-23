@@ -49,10 +49,10 @@ const Skills = () => {
             }}
             className="circle"
           >
-            JavaScript
+            OOPS
           </div>
-          <span>Node,React JS(Basic)</span>
-          <span>Basics</span>
+          <span>using Java</span>
+          <span>Intermediate</span>
         </div>
         <div className="skillset">
           <div
@@ -65,8 +65,8 @@ const Skills = () => {
           >
             DataBase
           </div>
-          <span>with SQL</span>
-          <span>InterMediate</span>
+          <span>with SQL,Neo4j</span>
+          <span>Intermediate</span>
         </div>
       </div>
     </div>

@@ -22,7 +22,7 @@ const Services = () => {
         <span>
           I will make an responsive website with good design and functionality with my skillset.
           <br />
-          I am also able to develop a software and website withh all functionality.
+          I am also able to develop a software and website with all functionality.
         </span>
         <a href={Resume} download="Rajesh Resume">
           <button className="button s-button">Download CV</button>
